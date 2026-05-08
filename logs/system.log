@@ -1,0 +1,7 @@
+2026-05-08 15:24:08,783:INFO:StockSense System Initialized.
+2026-05-08 15:24:08,828:INFO:Data loaded successfully. Shape: (10, 8)
+2026-05-08 15:24:08,916:INFO:Sales analysis performed.
+2026-05-08 15:24:08,926:WARNING:Low stock detected for 2 items.
+2026-05-08 15:24:09,849:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-08 15:24:09,851:INFO:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-08 15:24:09,982:INFO:Visualization report generated.
